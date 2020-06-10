@@ -1,17 +1,13 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Homepage. About me."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an incoming PhD student in Applied Physics at Harvard University, beginning Fall 2020. I did my undergraduate degree at the University of California, Berkeley, where I majored in Electrical Engineering & Computer Sciences. 
+I will be a PhD student in Applied Physics at Harvard University, beginning Fall 2020. I received my BS degree from the University of California, Berkeley in 2020, where I majored in Electrical Engineering & Computer Science (EECS). My research interests lie broadly in engineering light-matter interactions at the nanoscale, with applications in photonics, optoelectronics, and quantum information. 
 
 Email: myeh[at]g[dot]harvard[dot]edu 
-
-Miscellaneous
-======
-This website is based on the [academicpages template](https://academicpages.github.io/), which itself is based on the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/). Due credit to all those involved in the original formatting, etc. 
