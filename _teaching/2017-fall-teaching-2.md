@@ -17,4 +17,4 @@ https://inst.eecs.berkeley.edu/~ee16a/fa17/
 
 Resources
 ======
-Outdated. 
+Deprecated. 

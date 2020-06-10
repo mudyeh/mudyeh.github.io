@@ -17,4 +17,4 @@ https://inst.eecs.berkeley.edu/~ee16b/su20/
 
 Discussion Notes
 ======
-I will add as we progress through the semester. 
+I will add to this page as we progress throughout the semester. 
