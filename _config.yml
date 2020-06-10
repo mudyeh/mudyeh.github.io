@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew Yeh"
+title                    : "Matthew S. Yeh"
 title_separator          : "-"
 name                     : &name "Matthew Yeh"
 description              : &description "PhD student in Applied Physics"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matthew Yeh"
+  name             : "Matthew S. Yeh"
   avatar           : "matt.JPG"
   bio              : "PhD student in Applied Physics"
   location         : #"Cambridge, MA"
