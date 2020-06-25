@@ -18,3 +18,4 @@ https://inst.eecs.berkeley.edu/~ee16b/su20/
 Discussion Notes
 ======
 I will add to this page as we progress throughout the semester. 
+* Discussion 1A (EE16A Review): [Notes](http://mudyeh.github.io/files/Discussion_1A_Notes_EECS16B_Summer_2020.pdf)

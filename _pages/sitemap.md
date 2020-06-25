@@ -2,6 +2,7 @@
 layout: archive
 title: "Sitemap"
 permalink: /sitemap/
+excerpt: "Sitemap. You've already found it!"
 author_profile: true
 ---
 
