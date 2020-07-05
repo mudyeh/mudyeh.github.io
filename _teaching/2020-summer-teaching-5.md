@@ -23,3 +23,6 @@ I will add to this page as we progress throughout the semester.
 * Discussion 1C (Transistor Introduction): [Handwritten Notes](http://mudyeh.github.io/files/Dis1C.pdf)
 * Discussion 1D (1st Order Diff Eq and RC Transients): [Handwritten Notes](http://mudyeh.github.io/files/Dis1D.pdf)
 * Discussion 2A (Complex Number Introduction): [Notes](http://mudyeh.github.io/files/Discussion_2A_Notes_EECS16B_Summer_2020.pdf)
+* Discussion 2B (Phasors): [Handwritten Notes](http://mudyeh.github.io/files/Dis2B.pdf)
+* Discussion 2C (Filters): [Handwritten Notes](http://mudyeh.github.io/files/Dis2C.pdf)
+* Discussion 2D (Bode Plots and Loading): [Handwritten Notes](http://mudyeh.github.io/files/Dis2D.pdf)
