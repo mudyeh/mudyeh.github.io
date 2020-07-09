@@ -26,3 +26,6 @@ I will add to this page as we progress throughout the semester.
 * Discussion 2B (Phasors): [Handwritten Notes](http://mudyeh.github.io/files/Dis2B.pdf)
 * Discussion 2C (Filters): [Handwritten Notes](http://mudyeh.github.io/files/Dis2C.pdf)
 * Discussion 2D (Bode Plots and Loading): [Handwritten Notes](http://mudyeh.github.io/files/Dis2D.pdf)
+* Discussion 3A (Multivariate Diff Eq I): [Handwritten Notes](http://mudyeh.github.io/files/Dis3A.pdf)
+* Discussion 3B (Multivariate Diff Eq II): [Handwritten Notes](http://mudyeh.github.io/files/Dis3B.pdf)
+* Discussion 3C (Gram-Schmidt): [Handwritten Notes](http://mudyeh.github.io/files/Dis3C.pdf)
