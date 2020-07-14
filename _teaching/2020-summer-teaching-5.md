@@ -29,3 +29,6 @@ I will add to this page as we progress throughout the semester.
 * Discussion 3A (Multivariate Diff Eq I): [Handwritten Notes](http://mudyeh.github.io/files/Dis3A.pdf)
 * Discussion 3B (Multivariate Diff Eq II): [Handwritten Notes](http://mudyeh.github.io/files/Dis3B.pdf)
 * Discussion 3C (Gram-Schmidt): [Handwritten Notes](http://mudyeh.github.io/files/Dis3C.pdf)
+* Discussion 3D (Self-Adjoint Matrices): [Handwritten Notes](http://mudyeh.github.io/files/Dis3D.pdf)
+* Discussion 4A (Singular Value Decomposition I): [Handwritten Notes](http://mudyeh.github.io/files/Dis4A.pdf)
+* Discussion 4B (Singular Value Decomposition II): [Handwritten Notes](http://mudyeh.github.io/files/Dis4B.pdf)
