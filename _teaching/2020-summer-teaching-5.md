@@ -32,3 +32,5 @@ I will add to this page as we progress throughout the semester.
 * Discussion 3D (Self-Adjoint Matrices): [Handwritten Notes](http://mudyeh.github.io/files/Dis3D.pdf)
 * Discussion 4A (Singular Value Decomposition I): [Handwritten Notes](http://mudyeh.github.io/files/Dis4A.pdf)
 * Discussion 4B (Singular Value Decomposition II): [Handwritten Notes](http://mudyeh.github.io/files/Dis4B.pdf)
+* Discussion 4C (Principal Component Analysis): [Handwritten Notes](http://mudyeh.github.io/files/Dis4C.pdf)
+* Discussion 4D (Midterm 1 Review): [Handwritten Notes](http://mudyeh.github.io/files/Dis4D.pdf)
