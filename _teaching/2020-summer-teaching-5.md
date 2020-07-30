@@ -41,3 +41,4 @@ I will add to this page as we progress throughout the semester.
 * Discussion 6A (System Identification): [Handwritten Notes](http://mudyeh.github.io/files/Dis6A.pdf)
 * Discussion 6B (Stability): [Handwritten Notes](http://mudyeh.github.io/files/Dis6B.pdf)
 * Discussion 6C (Transient Behavior and Feedback Control): [Handwritten Notes](http://mudyeh.github.io/files/Dis6C.pdf)
+* Discussion 6D (Midterm 2 Review): [Handwritten Notes](http://mudyeh.github.io/files/Dis6D.pdf)
