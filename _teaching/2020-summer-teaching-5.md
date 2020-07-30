@@ -38,3 +38,6 @@ I will add to this page as we progress throughout the semester.
 * Discussion 5B (Discretization): [Handwritten Notes](http://mudyeh.github.io/files/Dis5B.pdf)
 * Discussion 5C (Controllability): [Handwritten Notes](http://mudyeh.github.io/files/Dis5C.pdf)
 * Discussion 5D (Minimum Energy Control): [Handwritten Notes](http://mudyeh.github.io/files/Dis5D.pdf)
+* Discussion 6A (System Identification): [Handwritten Notes](http://mudyeh.github.io/files/Dis6A.pdf)
+* Discussion 6B (Stability): [Handwritten Notes](http://mudyeh.github.io/files/Dis6B.pdf)
+* Discussion 6C (Transient Behavior and Feedback Control): [Handwritten Notes](http://mudyeh.github.io/files/Dis6C.pdf)
