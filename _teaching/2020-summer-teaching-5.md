@@ -42,3 +42,7 @@ I will add to this page as we progress throughout the semester.
 * Discussion 6B (Stability): [Handwritten Notes](http://mudyeh.github.io/files/Dis6B.pdf)
 * Discussion 6C (Transient Behavior and Feedback Control): [Handwritten Notes](http://mudyeh.github.io/files/Dis6C.pdf)
 * Discussion 6D (Midterm 2 Review): [Handwritten Notes](http://mudyeh.github.io/files/Dis6D.pdf)
+* Discussion 7A (Controller Canonical Form): [Handwritten Notes](http://mudyeh.github.io/files/Dis7A.pdf)
+* Discussion 7B (Discrete Fourier Transform I): [Handwritten Notes](http://mudyeh.github.io/files/Dis7B.pdf)
+* Discussion 7C (Discrete Fourier Transform II): [Handwritten Notes](http://mudyeh.github.io/files/Dis7C.pdf)
+* Discussion 7D (Linear Time-Invariant Systems): [Handwritten Notes](http://mudyeh.github.io/files/Dis7D.pdf)
