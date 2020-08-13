@@ -46,5 +46,6 @@ I will add to this page as we progress throughout the semester.
 * Discussion 7B (Discrete Fourier Transform I): [Handwritten Notes](http://mudyeh.github.io/files/Dis7B.pdf)
 * Discussion 7C (Discrete Fourier Transform II): [Handwritten Notes](http://mudyeh.github.io/files/Dis7C.pdf)
 * Discussion 7D (Linear Time-Invariant Systems): [Handwritten Notes](http://mudyeh.github.io/files/Dis7D.pdf)
-* Discussion 7A (Circular Convolution and Sampling): [Handwritten Notes](http://mudyeh.github.io/files/Dis8A.pdf)
-* Discussion 7B (Signals Review): [Handwritten Notes](http://mudyeh.github.io/files/Dis8B.pdf)
+* Discussion 8A (Circular Convolution and Sampling): [Handwritten Notes](http://mudyeh.github.io/files/Dis8A.pdf)
+* Discussion 8B (Signals Review): [Handwritten Notes](http://mudyeh.github.io/files/Dis8B.pdf)
+* Discussion 8C (Circuits Review): [Handwritten Notes](http://mudyeh.github.io/files/Dis8C.pdf)
