@@ -28,7 +28,7 @@ Miscellaneous
 Final projects that also find use as literature reviews:
 
 * For Physics 130 at UC Berkeley, "Quantum and Nonlinear Optics": [Boson-Sampling: Progress, Challenges, and Opportunities Beyond Quantum Supremacy](http://mudyeh.github.io/files/Physics130_FinalPaper_MatthewYeh_2020.pdf)
-* For CS/Chem/Physics C191 at UC Berkeley, "Quantum Information Science and Technology": [Certifiable Randomness from Quantum Information](http://mudyeh.github.io/files/C191_FinalPaper_MatthewYeh_2020.pdf)
+<!-- * For CS/Chem/Physics C191 at UC Berkeley, "Quantum Information Science and Technology": [Certifiable Randomness from Quantum Information](http://mudyeh.github.io/files/C191_FinalPaper_MatthewYeh_2020.pdf) -->
 
 <!-- ---
 layout: archive
