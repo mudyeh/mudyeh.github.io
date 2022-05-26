@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I will be a PhD student in Applied Physics at Harvard University, beginning Fall 2020. I received my BS degree from the University of California, Berkeley in 2020, where I majored in Electrical Engineering & Computer Science (EECS). My research interests lie broadly in engineering light-matter interactions at the nanoscale, with applications in photonics, optoelectronics, and quantum information. 
+I am a PhD student in Applied Physics at Harvard University. I received my BS degree from the University of California, Berkeley in 2020, where I majored in Electrical Engineering & Computer Science (EECS). My research interests lie broadly at the intersection between integrated photonics, quantum optics, and materials science. 
 
 Email: myeh[at]g[dot]harvard[dot]edu 
