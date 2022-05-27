@@ -9,8 +9,16 @@ author_profile: false
 
 For the most up-to-date list of publications, please see [Google Scholar](https://scholar.google.com/citations?user=o3qSposAAAAJ&hl=en). 
 
+Pre-prints
+======
+1. D. Zhu\*, C. Chen\*, M. Yu\*, L. Shao, Y. Hu, CJ Xin, M. Yeh, S. Ghosh, L. He, C. Reimer, N. Sinclair, F. N. C. Wong, M. Zhang, and M. Lončar, "Spectral control of nonclassical light using an integrated thin-film lithium niobate modulator," <i>arXiv preprint arXiv:2112.09961</i>, 2021. [link](https://arxiv.org/abs/2112.09961)
+
 Journal Papers
 ======
+
+__2021__<br>
+
+1. H. Kim, S. Z. Uddin, D.-H. Lien, M. Yeh, N. S. Azar, T. Kim, N. Gupta, Y. Rho, L. Li, C. P. Grigoroupoulos, K. B. Crozier, and A. Javey, "Actively variable spectrum optoelectronics in black phosphorus", <i>Nature</i>, 596, 232-237, 2021. [link](http://mudyeh.github.io/files/Nature_20210811_Tunable_bP_LEDs.pdf) 
 
 __2020__<br>
 1. M. Hettick\*, H. Li\*, D.-H. Lien, M. Yeh, T.-Y. Yang, M. Amani, N. Gupta, D. C. Chrzan, Y.-L. Chueh, A. Javey, "Shape-controlled single-crystal growth of InP at low temperatures down to 220 °C",  <i>Proceedings of the National Academy of Sciences (PNAS)</i>, 117 (2) 902-906, 2020. [link](http://mudyeh.github.io/files/PNAS_20200114_LTTLP_InP.pdf)
@@ -22,6 +30,10 @@ __2019__<br>
 2. J. Cho, M. Amani, D.‐H. Lien, H. Kim, M. Yeh, V. Wang, C. Tan, A. Javey, "Centimeter‐Scale and Visible Wavelength Monolayer Light‐Emitting Devices", <i>Advanced Functional Materials</i>, 1907941, 2019. [link](http://mudyeh.github.io/files/AFM_20191202_WS2_ACEL.pdf)
 
 \* indicates equal contribution. 
+
+Conference Papers
+======
+M. Yeh\*, C. J. Xin\*, Y. Hu, S. Ghosh, A. Beyer, E. Wollman, M. D. Shaw, N. Sinclair, E. L. Hu, D. Zhu, and M. Lončar, "Single-photon frequency shifting using coupled microring resonators on thin-film lithium niobate," <i>CLEO: Fundamental Science</i>, 2022.  
 
 Miscellaneous
 ======
