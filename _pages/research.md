@@ -20,8 +20,8 @@ Although not energy-conserving, the frequency of light can be manipulated in muc
 
 If these schemes are to be compatible with the ITU grid's existing channel spacings, then high-fidelity, GHz-scale frequency shifts should be made readily available. Using the strong electro-optic effect inherent to LN, we have developed several devices and protocols to perform frequency shifting and beamsplitting on the scale of 10s of GHz, for both pulsed and continuous-wave light inputs. See below for representative works. 
 
-Single-photon frequency shifting using coupled microring resonators on thin-film lithium niobate
-[Spectral control of nonclassical light using an integrated thin-film lithium niobate modulator](https://arxiv.org/abs/2112.09961)
+* Single-photon frequency shifting using coupled microring resonators on thin-film lithium niobate
+* [Spectral control of nonclassical light using an integrated thin-film lithium niobate modulator](https://arxiv.org/abs/2112.09961)
 
 Layered Materials (pre-2020)
 ---
@@ -32,8 +32,8 @@ Some examples of layered semiconductors include transition-metal dichalcogenides
 __TMDC photophysics__<br>
 In contrast to conventional bulk semiconductors (Si, III-V's), the room-temperature photophysics of TMDC monolayers is dominated by excitons (bound electron-hole pairs) instead of free carriers. By applying a voltage bias to electrostatically dope the material, we showed that even in the presence of defects the recombination pathways can be entirely radiative, as long as the photogenerated carriers are in the form of neutral excitons. This technique also enabled the first observation of isolated neutral exciton diffusion in TMDC monolayers at room temperature.
 
-[Electrical suppression of all nonradiative recombination pathways in monolayer semiconductors](https://mudyeh.github.io/files/Science_20190503_GatedPL.pdf)
-[Neutral exciton diffusion in monolayer MoS2](https://mudyeh.github.io/files/ACSNano_20200910_MoS2_Diffusion.pdf)
+* [Electrical suppression of all nonradiative recombination pathways in monolayer semiconductors](https://mudyeh.github.io/files/Science_20190503_GatedPL.pdf)
+* [Neutral exciton diffusion in monolayer MoS2](https://mudyeh.github.io/files/ACSNano_20200910_MoS2_Diffusion.pdf)
 
 __Black phosphorus optoelectronics__<br>
 Black phosphorus is the most stable allotrope of elemental phosphorus, in the same way that graphite is the most stable allotrope for carbon. Like graphene, single- and few-layer sheets can be isolated from the bulk. In this limit, due to its puckered lattice geometry bP is particularly sensitive to mechanical deformation (strain). By using strain as an active knob, we showed that bP is a promising candidate for widely tunable photodetectors and LEDs in the MWIR range, where the absorption spectrum of most toxic gases of interest lie. 
