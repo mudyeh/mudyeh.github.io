@@ -1,11 +1,13 @@
 ---
-title: "QuERY, Spring 2022"
+title: "Spring 2022"
 collection: query-archive
 type: "Archive"
 permalink: /query/archive/sp22
 location: "Cambridge, MA"
 author_profile: false
 ---
+
+Archival home page for QuERY 2022 (formerly Quantum Science and Technology Workshop) at Bellaire High School.
 
 __Past session topics and schedule__<br>
 
@@ -55,3 +57,8 @@ Group 6
 Group 7
 * Team name: *CAR*
 * Poster: [Optomechanical crystals](http://mudyeh.github.io/files/QuERY_2022_Group7.pdf) 
+
+__Bellaire Teaching Support__<br>
+* [Jimmy Newland](https://www.jimmynewland.com/wp/)
+* Reena Chopra
+* Gary Johnson 
