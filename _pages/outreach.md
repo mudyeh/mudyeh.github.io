@@ -11,6 +11,8 @@ author_profile: false
 <!-- * [Sample Projects](https://mudyeh.github.io/query/projects) -->
 * [FAQs](https://mudyeh.github.io/query/faq)
 
+![Group photo](https://mudyeh.github.io/files/S2022_group_photo_1.png)
+
 About
 ---
 
