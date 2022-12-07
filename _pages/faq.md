@@ -16,9 +16,9 @@ When: February – May 2023 <br>
 Where: Bellaire High School, Bellaire, TX (hybrid) 
 
 4.	__What is the time commitment for teachers/students/mentors?__<br>
-Students: 1.5 hours/week (seminar weeks), 3-4 hours/week (project period)
-Teachers: 3-4 hours/week
-Mentors: 3-4 hours/week
+Students: 1.5 hours/week (seminar weeks), 3-4 hours/week (project period)<br>
+Teachers: 3-4 hours/week<br>
+Mentors: 3-4 hours/week<br>
 
 5.	__How do I apply as a teacher/school?__<br>
 Get in touch with Matt (myeh@g.harvard.edu) and Jenn (jwang17@mit.edu)!
