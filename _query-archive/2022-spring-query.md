@@ -1,7 +1,7 @@
 ---
-title: "ES173: Introduction to Electronic and Photonic Devices, Fall 2021"
-collection: query-archive
-type: "QuERY Archive"
+title: "QuERY, Spring 2022"
+collection: archive
+type: "Archive"
 permalink: /query/archive/sp22
 venue: "Bellaire High School"
 date: 2022-05-31
@@ -9,7 +9,7 @@ location: "Cambridge, MA"
 author_profile: false
 ---
 
-Speaker presentations and student posters for QuERY 2022. 
+Speaker schedule and student posters for QuERY 2022. 
 
 Discussion Notes
 ======
