@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "QuERY Archive"
+permalink: /query/archive
+excerpt: "Archive of past QuERY sessions"
+author_profile: false
+---
+
+{% include base_path %}
+
+{% for post in site.query-archive reversed %}
+  {% include archive-single.html %}
+{% endfor %}
