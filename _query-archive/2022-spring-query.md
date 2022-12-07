@@ -9,24 +9,26 @@ location: "Cambridge, MA"
 author_profile: false
 ---
 
-Speaker schedule and student posters for QuERY 2022. 
+__Past session topics and schedule__<br>
 
 | Date (TBD)     | Speaker | Talk title | Core concepts |
 | ----------- | --- | --- | ----------- |
 | 2/16/22      | Eliza Cornell (Harvard) | Optomechanical cooling: putting the quantum in quantum mechanics       | Quantization, wave-particle duality |
-| 2/23/23   | Hana Warner (Harvard) | Quantum logic gates and transduction        | superposition, qubits |
-| 3/2/23      | CJ Xin (Harvard)| Quantum entanglement and the question of local reality       | entanglement, Bell tests |
-| 3/9/23   | Ethan Lake (MIT)| Doing physics with computers (classical and quantum)       | strengths and limits of classical simulation |
-| 3/16/23      | Ognjen Markovic (Harvard) | From fridge magnets to modern quantum experiments       | spin, quantum simulation |
-| 3/23/23   | Hari Padmanabhan, Elise Koskelo (Harvard) | Exploring quantum matter        | spin, materials science |
-| 3/30/23     | Madison Sutula, Emma Batson (MIT) | Measurement and characterization       | lab instrumentation |
-| 4/6/23   | Hengyun Zhou (Harvard) | Quantum sensing with spins in diamond        | quantum sensing |
-| 4/13/23     | Michael Haas (Harvard), Zeyang Li (MIT)| LIGO: uncovering cosmic physics with quantum systems | Qubits and quantum logic       |
-| 4/20/23   | - | Project week        | Project idea formulation |
-| 4/27/23    | Jimmy Newland (BHS) | Project week       | Creating a research poster |
-| 5/4/23   | - | Project week        | - |
-| 5/11/23   | - | Project week        | - |
-| 5/18/23   | - | Poster session        | - |
+| 2/23/22   | Hana Warner (Harvard) | Quantum logic gates and transduction        | superposition, qubits |
+| 3/2/22      | CJ Xin (Harvard)| Quantum entanglement and the question of local reality       | entanglement, Bell tests |
+| 3/9/22   | Ethan Lake (MIT)| Doing physics with computers (classical and quantum)       | strengths and limits of classical simulation |
+| 3/16/22      | Ognjen Markovic (Harvard) | From fridge magnets to modern quantum experiments       | spin, quantum simulation |
+| 3/23/22   | Hari Padmanabhan, Elise Koskelo (Harvard) | Exploring quantum matter        | spin, materials science |
+| 3/30/22     | Madison Sutula, Emma Batson (MIT) | Measurement and characterization       | lab instrumentation |
+| 4/6/22   | Hengyun Zhou (Harvard) | Quantum sensing with spins in diamond        | quantum sensing |
+| 4/13/22     | Michael Haas (Harvard), Zeyang Li (MIT)| LIGO: uncovering cosmic physics with quantum systems | Qubits and quantum logic       |
+| 4/20/22   | - | Project week        | Project idea formulation |
+| 4/27/22    | Jimmy Newland (BHS) | Project week       | Creating a research poster |
+| 5/4/22   | - | Project week        | - |
+| 5/11/22   | - | Project week        | - |
+| 5/18/22   | - | Poster session        | - |
+
+__Student Projects__<br>
 
 Group 1
 * Team name: *Quantum Technicians*

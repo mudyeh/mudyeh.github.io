@@ -8,7 +8,7 @@ author_profile: false
 {% include base_path %}
 
 * [Archive](https://mudyeh.github.io/query/archive)
-* [Sample Projects](https://mudyeh.github.io/query/projects)
+<!-- * [Sample Projects](https://mudyeh.github.io/query/projects) -->
 * [FAQs](https://mudyeh.github.io/query/faq)
 
 About
