@@ -3,8 +3,6 @@ title: "QuERY, Spring 2022"
 collection: query-archive
 type: "Archive"
 permalink: /query/archive/sp22
-venue: "Bellaire High School"
-date: 2022-05-31
 location: "Cambridge, MA"
 author_profile: false
 ---
