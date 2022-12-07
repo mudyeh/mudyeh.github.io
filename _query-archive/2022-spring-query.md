@@ -1,6 +1,6 @@
 ---
 title: "QuERY, Spring 2022"
-collection: archive
+collection: query-archive
 type: "Archive"
 permalink: /query/archive/sp22
 venue: "Bellaire High School"
