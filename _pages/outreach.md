@@ -1,36 +1,51 @@
 ---
 permalink: /query/
-title: "QuERY"
+title: "Quantum Engineering Research and You! (QuERY)"
 excerpt: "Quantum Engineering Research and You outreach program."
 author_profile: false
 ---
 
 {% include base_path %}
 
-Landing page for QuERY program (currently at Bellaire High School, Bellaire, TX).
+* [Archive](https://mudyeh.github.io/query/archive)
+* [Sample Projects](https://mudyeh.github.io/query/projects)
+* [FAQs](https://mudyeh.github.io/query/faq)
 
-Spring 2022
+About
 ---
-Lithium niobate (LiNbO3, LN) is a trigonal crystal well-known in the photonics industry for its usage in the electro-optic modulators foundational to fiber-optic communications. LN is a highly nonlinear material, with large $\chi^{(2)}$ and $\chi^{(3)}$ nonlinear optical susceptibilities, in addition to favorable electro-optic, piezoelectric, photoelastic, and ferroelectric properties. Recently, the development of thin-film lithium niobate (TFLN) in conjunction with advances in microfabrication techniques has enabled much stronger optical confinement than traditional Ti-indiffused LN waveguides, ushering in a new generation of integrated photonic devices. 
 
-A review of the material properties can be found [here](https://link.springer.com/article/10.1007/BF00614817) whereas an overview of TFLN's application in integrated photonics can be found [here](https://opg.optica.org/aop/abstract.cfm?uri=aop-13-2-242). 
+QuERY (Quantum Engineering Research and You!) aims to introduce high school students of all backgrounds to scientific research by connecting them with graduate students in the quantum engineering sector. Our graduate student mentors present on their research, share their personal experiences as a scientist, and mentor high schoolers to complete their own science communication projects. Mentees will gain a firsthand view into the lives of scientists and build lasting connections that may serve them well in the future should they decide to follow that path themselves.
 
-__Frequency control of single photons__<br>
-Although not energy-conserving, the frequency of light can be manipulated in much the same way as other mode characteristics such as polarization, path, and time-bin. Already, light is readily frequency-multiplexed in classical telecommunications to parallelize information transfer. In quantum optics, the wide bandwidth and high dimensionality of the frequency domain could potentially lead to more compact implementations of linear optical quantum computing. 
+We are sponsored by the [MIT Center for Quantum Engineering iQuISE](https://www.iquise.mit.edu/) group and the [Harvard Quantum Initiative](https://quantum.harvard.edu/). At present, the workshop runs in a hybrid format at [Bellaire High School](https://www.houstonisd.org/bellairehigh) in Texas. 
 
-If these schemes are to be compatible with the ITU grid's existing channel spacings, then high-fidelity, GHz-scale frequency shifts should be made readily available. Using the strong electro-optic effect inherent to LN, we have developed several devices and protocols to perform frequency shifting and beamsplitting on the scale of 10s of GHz, for both pulsed and continuous-wave light inputs. See below for representative works. 
 
-* Single-photon frequency shifting using coupled microring resonators on thin-film lithium niobate
-* [Spectral control of nonclassical light using an integrated thin-film lithium niobate modulator](https://arxiv.org/abs/2112.09961)
-
-Layered Materials (pre-2020)
+Overview
 ---
-Layered materials are a broad class of crystals composed of stacks of monolayers held together by van der Waals interactions. In the few-layer limit these materials can exhibit markedly different properties from their bulk counterparts, forming an entire material library including semiconductors, insulators, superconductors, piezoelectrics, ferromagnets and ferroelectrics, among others. 
+QuERY participants meet once a week after school. The beginning of the program is focused on making the quantum world approachable by introducing key concepts in an intuition-focused way. We have worked hard with our mentors to design and test an introduction that is accessible to everyone while covering important points needed later. In subsequent weeks, students listen to talks about the frontiers of quantum research, participate in small group discussions about technical content and research culture, and work on a group project with the assistance of their mentors. The culmination of the program is a poster session where the students will have the opportunity to present their work (see past projects here).
 
-Some examples of layered semiconductors include transition-metal dichalcogenides (TMDCs) and black phosphorus (bP).  
+A tentative schedule of session topics is listed below; the specific title and scope of each talk will be determined by the preferences and qualifications of the graduate or postdoctoral mentor.
 
-__TMDC photophysics__<br>
-In contrast to conventional bulk semiconductors (Si, III-V's), the room-temperature photophysics of TMDC monolayers is dominated by excitons (bound electron-hole pairs) instead of free carriers. By applying a voltage bias to electrostatically dope the material, we showed that even in the presence of defects the recombination pathways can be entirely radiative, as long as the photogenerated carriers are in the form of neutral excitons. This technique also enabled the first observation of isolated neutral exciton diffusion in TMDC monolayers at room temperature.
+| Date (TBD)      | Concepts covered (talk title TBD) |
+| ----------- | ----------- |
+| 2/16/23      | Wave mechanics       |
+| 2/23/23   | Quantum mechanical waves        |
+| 3/2/23      | Quantization       |
+| 3/9/23   | Superposition        |
+| 3/16/23      | Spring break       |
+| 3/23/23   | Small group work session        |
+| 3/30/23      | Entanglement       |
+| 4/6/23   | Small group work session        |
+| 4/13/23      | Qubits and quantum logic       |
+| 4/20/23   | Small group work session        |
+| 4/27/23      | Special topics       |
+| 5/4/23   | Project week        |
+| 5/11/23   | Project week/scientific communication        |
+| 5/18/23   | Project week        |
+| 5/25/23   | Poster session        |
 
-* [Electrical suppression of all nonradiative recombination pathways in monolayer semiconductors](https://mudyeh.github.io/files/Science_20190503_GatedPL.pdf)
-* [Neutral exciton diffusion in monolayer MoS2](https://mudyeh.github.io/files/ACSNano_20200910_MoS2_Diffusion.pdf)
+__Important Dates__<br>
+
+Application deadline: 
+
+__Contact:__<br>
+QuERY (Quantum Engineering Research and You) is currently organized by Jennifer Wang (jwang17@mit.edu) and Matthew Yeh (myeh@g.harvard.edu). Please feel free to email us with any questions.
