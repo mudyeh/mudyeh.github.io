@@ -14,7 +14,7 @@ author_profile: false
 About
 ---
 
-QuERY (Quantum Engineering Research and You!) aims to introduce high school students of all backgrounds to scientific research by connecting them with graduate students in the quantum engineering sector. Our graduate student mentors present on their research, share their personal experiences as a scientist, and mentor high schoolers to complete their own science communication projects. Mentees will gain a firsthand view into the lives of scientists and build lasting connections that may serve them well in the future should they decide to follow that path themselves.
+QuERY (Quantum Engineering Research and You) aims to introduce high school students of all backgrounds to scientific research by connecting them with graduate students in the quantum engineering sector. Our graduate student mentors present on their research, share their personal experiences as a scientist, and mentor high schoolers to complete their own science communication projects. Mentees will gain a firsthand view into the lives of scientists and build lasting connections that may serve them well in the future should they decide to follow that path themselves.
 
 We are sponsored by the [MIT Center for Quantum Engineering iQuISE](https://www.iquise.mit.edu/) group and the [Harvard Quantum Initiative](https://quantum.harvard.edu/). At present, the workshop runs in a hybrid format at [Bellaire High School](https://www.houstonisd.org/bellairehigh) in Texas. 
 
@@ -45,7 +45,8 @@ A tentative schedule of session topics is listed below; the specific title and s
 
 __Important Dates__<br>
 
-Application deadline: 
+Mentor application deadline: 
 
 __Contact:__<br>
-QuERY (Quantum Engineering Research and You) is currently organized by Jennifer Wang (jwang17@mit.edu) and Matthew Yeh (myeh@g.harvard.edu). Please feel free to email us with any questions.
+
+QuERY is currently organized by Jennifer Wang (jwang17@mit.edu) and Matthew Yeh (myeh@g.harvard.edu). Please feel free to email us with any questions.
