@@ -11,14 +11,47 @@ author_profile: false
 
 Speaker schedule and student posters for QuERY 2022. 
 
-Discussion Notes
-======
-I will add to this page as we progress throughout the semester. 
-* Section 1-2 (Intro to Quantum Mechanics): [Notes](http://mudyeh.github.io/files/Section_1_Intro_to_Quantum_Mechanics.pdf)
-* Section 3 (Circuits Review): [EE16B Notes I](http://mudyeh.github.io/files/Discussion_1A_Notes_EECS16B_Summer_2020.pdf) [EE16B Notes II](http://mudyeh.github.io/files/Discussion_1B_Notes_EECS16B_Summer_2020.pdf)
-* Section 4 (Carrier Concentration): [Notes](http://mudyeh.github.io/files/Section_4_Carrier_Concentration.pdf)
-* Section 5 (Drift and Diffusion): [Worksheet](http://mudyeh.github.io/files/Section_5_Drift_and_Diffusion(Worksheet).pdf) [Solutions](http://mudyeh.github.io/files/Section_5_Drift_and_Diffusion(Solutions).pdf)
-* Section 6 (Absorption): [Worksheet](http://mudyeh.github.io/files/Section_6_Absorption(Worksheet).pdf) [Solutions](http://mudyeh.github.io/files/Section_6_Absorption(Solutions).pdf)
-* Section 7 (Solar Cell Nonidealities): [Notes](http://mudyeh.github.io/files/Section_7_Solar_Cell_Nonidealities.pdf)
-* Section 8 (Recombination): [Notes](http://mudyeh.github.io/files/Section_8_Recombination.pdf)
-* Section 9 (Semiconductors and Quantum Information): [Notes](http://mudyeh.github.io/files/Section_9_Semiconductors_and_Quantum_Information.pdf)
+| Date (TBD)     | Speaker | Talk title | Core concepts |
+| ----------- | --- | --- | ----------- |
+| 2/16/22      | Eliza Cornell (Harvard) | Optomechanical cooling: putting the quantum in quantum mechanics       | Quantization, wave-particle duality |
+| 2/23/23   | Hana Warner (Harvard) | Quantum logic gates and transduction        | superposition, qubits |
+| 3/2/23      | CJ Xin (Harvard)| Quantum entanglement and the question of local reality       | entanglement, Bell tests |
+| 3/9/23   | Ethan Lake (MIT)| Doing physics with computers (classical and quantum)       | strengths and limits of classical simulation |
+| 3/16/23      | Ognjen Markovic (Harvard) | From fridge magnets to modern quantum experiments       | spin, quantum simulation |
+| 3/23/23   | Hari Padmanabhan, Elise Koskelo (Harvard) | Exploring quantum matter        | spin, materials science |
+| 3/30/23     | Madison Sutula, Emma Batson (MIT) | Measurement and characterization       | lab instrumentation |
+| 4/6/23   | Hengyun Zhou (Harvard) | Quantum sensing with spins in diamond        | quantum sensing |
+| 4/13/23     | Michael Haas (Harvard), Zeyang Li (MIT)| LIGO: uncovering cosmic physics with quantum systems | Qubits and quantum logic       |
+| 4/20/23   | - | Project week        | Project idea formulation |
+| 4/27/23    | Jimmy Newland (BHS) | Project week       | Creating a research poster |
+| 5/4/23   | - | Project week        | - |
+| 5/11/23   | - | Project week        | - |
+| 5/18/23   | - | Poster session        | - |
+
+Group 1
+* Team name: *Quantum Technicians*
+* Poster: Microfabrication - Moore's law, optical lithography, and the fundamentals of quantum mechanics
+
+Group 2
+* Team name: *Big Red*
+* Poster: [Procedurally generating music using superposition](http://mudyeh.github.io/files/QuERY_2022_Group2.pdf) 
+
+Group 3
+* Team name: *New kids on the Bloch*
+* Poster: [Analyzing qubits on the Bloch sphere](http://mudyeh.github.io/files/QuERY_2022_Group3.pdf) 
+
+Group 4
+* Team name: *The Ising on the cake*
+* Poster: [A numerical investigation of the Ising model](http://mudyeh.github.io/files/QuERY_2022_Group4.pdf) 
+
+Group 5
+* Team name: *The spinsters*
+* Poster: [Exploration of squeezed spin states in Python](http://mudyeh.github.io/files/QuERY_2022_Group5.pdf) 
+
+Group 6
+* Team name: *The Heisenburgers*
+* Poster: [Quantum innovations promise better, brighter optoelectronics](http://mudyeh.github.io/files/QuERY_2022_Group6.pdf) 
+
+Group 7
+* Team name: *CAR*
+* Poster: [Optomechanical crystals](http://mudyeh.github.io/files/QuERY_2022_Group7.pdf) 
