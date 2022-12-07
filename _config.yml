@@ -190,6 +190,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  archive:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
