@@ -250,6 +250,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _archive
+  - scope:
+      path: ""
+      type: archive
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
 
 # Sass/SCSS
 sass:
