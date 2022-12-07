@@ -12,6 +12,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "QuERY"
+    url: /query/
+
   # - title: "Portfolio"
   #   url: /portfolio/
         
@@ -19,7 +22,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/CV_MatthewYeh_2022_05.pdf
+    url: /files/CV_MatthewYeh_2022_12.pdf
     
   # - title: "Guide"
   #   url: /markdown/
