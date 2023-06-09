@@ -51,3 +51,5 @@ __Important Dates__<br>
 __Contact:__<br>
 
 QuERY is currently organized by Jennifer Wang (jwang17@mit.edu) and Matthew Yeh (myeh@g.harvard.edu). The faculty facilitator at Bellaire High School is Jimmy Newland (newton@jayfox.net). Please feel free to email us with any questions.
+
+![Group photo](https://mudyeh.github.io/files/S2023_group_photo.jpg)

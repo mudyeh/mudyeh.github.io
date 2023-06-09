@@ -9,6 +9,8 @@ author_profile: false
 
 Archival home page for QuERY 2023 at Bellaire High School.
 
+![Demo photo](https://mudyeh.github.io/files/S2023_superconductivity.png)
+
 __Past session topics and schedule__<br>
 
 | Date     | Speaker | Core concept | Special topic(s) |
