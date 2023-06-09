@@ -11,7 +11,7 @@ Archival home page for QuERY 2022 (formerly Quantum Science and Technology Works
 
 __Past session topics and schedule__<br>
 
-| Date (TBD)     | Speaker | Talk title | Core concepts |
+| Date     | Speaker | Talk title | Core concepts |
 | ----------- | --- | --- | ----------- |
 | 2/16/22      | Eliza Cornell (Harvard) | Optomechanical cooling: putting the quantum in quantum mechanics       | Quantization, wave-particle duality |
 | 2/23/22   | Hana Warner (Harvard) | Quantum logic gates and transduction        | superposition, qubits |
