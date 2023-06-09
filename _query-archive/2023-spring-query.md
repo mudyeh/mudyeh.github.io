@@ -1,13 +1,13 @@
 ---
-title: "Spring 2022"
+title: "Spring 2023"
 collection: query-archive
 type: "Archive"
-permalink: /query/archive/sp22
+permalink: /query/archive/sp23
 location: "Cambridge, MA"
 author_profile: false
 ---
 
-Archival home page for QuERY 2022 (formerly Quantum Science and Technology Workshop) at Bellaire High School.
+Archival home page for QuERY 2023 at Bellaire High School.
 
 __Past session topics and schedule__<br>
 
