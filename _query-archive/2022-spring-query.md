@@ -9,6 +9,8 @@ author_profile: false
 
 Archival home page for QuERY 2022 (formerly Quantum Science and Technology Workshop) at Bellaire High School.
 
+![Group photo](https://mudyeh.github.io/files/S2022_group_photo_1.png)
+
 __Past session topics and schedule__<br>
 
 | Date     | Speaker | Talk title | Core concepts |
