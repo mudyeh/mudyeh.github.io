@@ -29,24 +29,27 @@ A tentative schedule of session topics is listed below; the specific title and s
 
 | Date (TBD)      | Concepts covered (speaker TBD) |
 | ----------- | ----------- |
-| 2/16      | Wave mechanics       |
-| 2/23   | Quantum mechanical waves        |
-| 3/2      | Quantization       |
-| 3/9   | Superposition        |
-| 3/16      | Spring break       |
-| 3/23   | Small group work session        |
-| 3/30      | Entanglement       |
-| 4/6   | Small group work session        |
-| 4/13      | Qubits and quantum logic       |
-| 4/20   | Small group work session        |
-| 4/27      | Special topics       |
-| 5/4   | Project week        |
-| 5/11   | Project week       |
-| 5/18   | Poster session        |
+| 1/30 | Kickoff - meet the scientists! |
+| 2/8      | Waves       |
+| 2/15      | Small group discussion - meet your group!       |
+| 2/22   | Quantum mechanical waves        |
+| 2/29      | Small group discussion - quantization activity      |
+| 3/7   | Superposition        |
+| 3/14      | Spring break       |
+| 3/21   | Entanglement        |
+| 3/28      | Small group discussion - quantum information activity       |
+| 4/4   | What is science communication?        |
+| 4/11      | Start of project - meet your team!       |
+| 4/18   | Project       |
+| 4/25      | Project      |
+| 5/2   | Project       |
+| 5/9   | AP testing - optional       |
+| 5/16   | AP/IB testing - optional        |
+| 5/23   | Poster session        |
 
 __Important Dates__<br>
 
-2024 mentor application deadline: TBD
+2024 mentor application deadline: 1/25/24
 
 __Contact:__<br>
 
