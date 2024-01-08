@@ -10,6 +10,7 @@ author_profile: false
 * [Archive](https://mudyeh.github.io/query/archive)
 <!-- * [Sample Projects](https://mudyeh.github.io/query/projects) -->
 * [FAQs](https://mudyeh.github.io/query/faq)
+* [News](https://mudyeh.github.io/query/news)
 
 ![Banner](https://mudyeh.github.io/files/S2023_diffraction_grating.jpg)
 
@@ -29,17 +30,16 @@ A tentative schedule of session topics is listed below; the specific title and s
 
 | Date (TBD)      | Concepts covered (speaker TBD) |
 | ----------- | ----------- |
-| 1/30 | Kickoff - meet the scientists! |
-| 2/8      | Waves       |
-| 2/15      | Small group discussion - meet your group!       |
-| 2/22   | Quantum mechanical waves        |
-| 2/29      | Small group discussion - quantization activity      |
-| 3/7   | Superposition        |
+| 2/8 | Kickoff - meet the scientists! |
+| 2/15      | Waves       |
+| 2/22      | Small group discussion - meet your group!       |
+| 2/29   | Quantum mechanical waves        |
+| 3/7      | Small group discussion - quantization activity      |
 | 3/14      | Spring break       |
-| 3/21   | Entanglement        |
-| 3/28      | Small group discussion - quantum information activity       |
-| 4/4   | What is science communication?        |
-| 4/11      | Start of project - meet your team!       |
+| 3/21   | Superposition        |
+| 3/28   | Entanglement        |
+| 4/4      | Small group discussion - quantum information activity       |
+| 4/11      | What is science communication? and project start       |
 | 4/18   | Project       |
 | 4/25      | Project      |
 | 5/2   | Project       |
