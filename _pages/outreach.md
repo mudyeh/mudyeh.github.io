@@ -49,7 +49,7 @@ A tentative schedule of session topics is listed below; the specific title and s
 
 __Important Dates__<br>
 
-2025 mentor application deadline: 11:59pm 1/24/24
+2025 mentor application deadline: 11:59pm 1/24/25
 
 __Contact:__<br>
 
