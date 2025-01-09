@@ -30,29 +30,29 @@ A tentative schedule of session topics is listed below; the specific title and s
 
 | Date (TBD)      | Concepts covered (speaker TBD) |
 | ----------- | ----------- |
-| 2/8 | Kickoff - meet the scientists! |
-| 2/15      | Waves       |
-| 2/22      | Small group discussion - meet your group!       |
-| 2/29   | Quantum mechanical waves        |
-| 3/7      | Small group discussion - quantization activity      |
-| 3/14      | Spring break       |
-| 3/21   | Superposition        |
-| 3/28   | Entanglement        |
-| 4/4      | Small group discussion - quantum information activity       |
-| 4/11      | What is science communication? and project start       |
-| 4/18   | Project       |
-| 4/25      | Project      |
-| 5/2   | Project       |
-| 5/9   | AP testing - optional       |
-| 5/16   | AP/IB testing - optional        |
-| 5/23   | Poster session        |
+| 2/6 | Kickoff - meet the scientists! |
+| 2/13      | Waves       |
+| 2/20      | Small group discussion - meet your group!       |
+| 2/27   | Quantum mechanical waves        |
+| 3/6      | Small group discussion - quantization activity      |
+| 3/13      | Spring break       |
+| 3/20   | Superposition        |
+| 3/27   | Entanglement        |
+| 4/3      | Small group discussion - quantum information activity       |
+| 4/10      | What is science communication? and project start       |
+| 4/17   | Project       |
+| 4/24      | Project      |
+| 5/1   | Project       |
+| 5/8   | AP testing - optional       |
+| 5/15   | AP/IB testing - optional        |
+| 5/22   | Poster session        |
 
 __Important Dates__<br>
 
-2024 mentor application deadline: 1/25/24
+2025 mentor application deadline: 11:59pm 1/24/24
 
 __Contact:__<br>
 
-QuERY is currently organized by Jennifer Wang (jwang17@mit.edu) and Matthew Yeh (myeh@g.harvard.edu). The faculty facilitator at Bellaire High School is Jimmy Newland (newton@jayfox.net). Please feel free to email us with any questions.
+QuERY is currently organized by Jennifer Wang (jwang17@mit.edu) and Matthew Yeh (myeh@g.harvard.edu). The faculty facilitator at Bellaire High School is Reena Chopra (Reena.Chopra@houstonisd.org). Please feel free to email us with any questions.
 
 ![Group photo](https://mudyeh.github.io/files/S2023_group_photo.jpg)
