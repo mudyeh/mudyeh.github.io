@@ -2,7 +2,7 @@
 title: "Spring 2025"
 collection: query-archive
 type: "Archive"
-permalink: /query/archive/sp24
+permalink: /query/archive/sp25
 location: "Cambridge, MA"
 author_profile: false
 ---
