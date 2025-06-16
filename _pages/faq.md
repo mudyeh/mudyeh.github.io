@@ -23,4 +23,4 @@ Mentors: 3-4 hours/week<br>
 5.	__How do I apply as a teacher/school?__<br>
 Get in touch with Matt (myeh@g.harvard.edu) and Jenn (jwang17@mit.edu)!
 
-![Join the team](https://mudyeh.github.io/files/S2025_mentors.jpg)
+![Join the team](https://mudyeh.github.io/files/S2025_mentors.JPG)

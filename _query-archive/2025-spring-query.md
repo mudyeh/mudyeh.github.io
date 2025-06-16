@@ -1,5 +1,5 @@
 ---
-title: "Spring 2024"
+title: "Spring 2025"
 collection: query-archive
 type: "Archive"
 permalink: /query/archive/sp24
@@ -9,7 +9,7 @@ author_profile: false
 
 Archival home page for QuERY 2025 at Bellaire High School.
 
-![Group photo](https://mudyeh.github.io/files/S2025_group_photo.jpg)
+![Group photo](https://mudyeh.github.io/files/S2025_group_photo.JPG)
 
 __Past session topics and schedule__<br>
 
@@ -88,4 +88,4 @@ __Bellaire Teaching Support__<br>
 __TACC Support__<br>
 * [Jimmy Newland](https://www.jimmynewland.com/wp/)
 
-![Demo photo](https://mudyeh.github.io/files/YBCO_levitation.jpg)
+![Demo photo](https://mudyeh.github.io/files/YBCO_levitation.JPG)
